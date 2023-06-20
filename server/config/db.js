@@ -7,7 +7,8 @@ Date: June 4, 2023
 
 module.exports =
 {
-    "URI": "mongodb://localhost/business_store"
+    //"URI": "mongodb://localhost/business_store"
+    "URI": 'mongodb+srv://Eunice:vTbTpahHvxEN5rDl@dbserver.cvivthj.mongodb.net/business_store?retryWrites=true&w=majority'
 }
 
 
